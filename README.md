@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web programming.
 - 🎓 I am student of Karabuk University - Computer Engineering department.
-- 🌱 I’m currently learning Django . I am improving myself on web development and back-end development.
+- 🌱 I’m currently learning Django and Spring . I am improving myself on web development and back-end development.
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>

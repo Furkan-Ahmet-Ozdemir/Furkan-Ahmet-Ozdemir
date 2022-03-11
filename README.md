@@ -25,11 +25,14 @@ Here are some ideas to get you started:
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/furkan-ahmet-özdemir-09a79a198'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a> 
-<a href = 'https://www.github.com/Furkan-Ahmet-Ozdemir'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></a>
-<a href="mailto: furkanahmetozdemir@hotmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h2> Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkan-ahmet-özdemir-09a79a198#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkan-ahmet-özdemir-09a79a198#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![mailto](./img/mailto-light.png)](mailto:furkanahmetozdemir@hotmail.com#gh-light-mode-only)
+[![mailto](./img/mailto-dark.png)](mailto:furkanahmetozdemir@hotmail.com#gh-dark-mode-only)
+
+<h2> Languages </h2>
 <p align='left'>
   
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
@@ -66,8 +69,6 @@ Here are some ideas to get you started:
 <!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg'>  -->
   
 </p>
-
-### Languages
 
 ![Furkan's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Furkan-Ahmet-Ozdemir&show_icons=true&theme=radical&locale=en&layout=compact)
 

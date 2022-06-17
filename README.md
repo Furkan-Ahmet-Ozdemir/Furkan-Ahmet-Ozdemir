@@ -1,5 +1,5 @@
 
-<h1> Hi there, I am Furkan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1> Hi there, I am Furkan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=35px > </h1>
 
 <!--
 **Furkan-Ahmet-Ozdemir/Furkan-Ahmet-Ozdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### I'm a Software Developer 👩🏻‍💻
 
-- 🔭 I’m currently working on web programming.
+- 🔭 I’m currently working on Java Backend programming.
 - 🎓 I am student of Karabuk University - Computer Engineering department.
-- 🌱 I’m currently learning Django and Spring . I am improving myself on web development and back-end development.
+- 🌱 I’m currently learning Spring . I am improving myself on web development and back-end development.
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'>
 <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'>
 <!-- <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg'> -->
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'> 
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
@@ -76,5 +75,4 @@ Here are some ideas to get you started:
 <!-- [![Furkan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Furkan-Ahmet-Ozdemir&theme=tokyonight)](https://github.com/Furkan-Ahmet-Ozdemir/github-readme-streak-stats) -->
 [![Furkan's stats](https://github-readme-stats.vercel.app/api?username=Furkan-Ahmet-Ozdemir&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Furkan-Ahmet-Ozdemir/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/Furkan-Ahmet-Ozdemir)
 [![GitHub followers](https://img.shields.io/github/followers/Furkan-Ahmet-Ozdemir.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Furkan-Ahmet-Ozdemir?tab=followers)

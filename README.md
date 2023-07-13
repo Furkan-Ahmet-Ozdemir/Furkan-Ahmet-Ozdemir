@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 #### I'm a Software Developer 👩🏻‍💻
 
 - 🔭 I’m currently working on Java Backend programming.
-- 🎓 I am student of Karabuk University - Computer Engineering department.
-- 🌱 I’m currently learning Spring . I am improving myself on web development and back-end development.
+- 🎓 I graduated from Karabuk University - Computer Engineering department.
+- 🌱 I’m currently learning Spring . I am improving myself on back-end development.
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>

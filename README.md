@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 #### I'm a Software Developer 👩🏻‍💻
 
-- 🔭 I’m currently working on Java Backend programming.
+- 🔭 I’m currently working on Backend and Frontend programming.
 - 🎓 I graduated from Karabuk University - Computer Engineering department.
-- 🌱 I’m currently learning Spring . I am improving myself on back-end development.
-
+- 🌱 I’m currently learning React and Spring.
+- 📫 How to reach me: furkanahmetozdemir@hotmail.com
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
@@ -32,47 +32,11 @@ Here are some ideas to get you started:
 [![mailto](./img/mailto-light.png)](mailto:furkanahmetozdemir@hotmail.com#gh-light-mode-only)
 [![mailto](./img/mailto-dark.png)](mailto:furkanahmetozdemir@hotmail.com#gh-dark-mode-only)
 
-<h2> Languages </h2>
-<p align='left'>
-  
-<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
-<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'>
-<img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-<!-- <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg'> -->
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'> 
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
-<!-- <img width ='44px' align='center'  src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg'> -->
-  
-  
-<!--   
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-idea.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg'>
- -->
-  
-  
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg'> -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg'>  -->
-<!-- <img width ='44px' align='center' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg'>  -->
-  
-</p>
+<h2> Tech Stack </h2>
 
-![Furkan's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Furkan-Ahmet-Ozdemir&show_icons=true&theme=radical&locale=en&layout=compact)
 
-### Stats
-<!-- [![Furkan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Furkan-Ahmet-Ozdemir&theme=tokyonight)](https://github.com/Furkan-Ahmet-Ozdemir/github-readme-streak-stats) -->
-[![Furkan's stats](https://github-readme-stats.vercel.app/api?username=Furkan-Ahmet-Ozdemir&langs_count=3&layout=compact&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Furkan-Ahmet-Ozdemir/github-readme-stats)
+<div align="left">
 
-[![GitHub followers](https://img.shields.io/github/followers/Furkan-Ahmet-Ozdemir.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Furkan-Ahmet-Ozdemir?tab=followers)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,php,python)](https://skillicons.dev)
+
+</div>

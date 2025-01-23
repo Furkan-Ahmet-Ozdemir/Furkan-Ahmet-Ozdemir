@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,php,python,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,git,kafka)](https://skillicons.dev)
 
 </div>

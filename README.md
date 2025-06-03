@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 -->
 
 
-#### I'm a Software Developer 👩🏻‍💻
+#### I'm a Software Engineer 👩🏻‍💻
 
-- 🔭 I’m currently working on Backend and Frontend programming.
-- 🎓 I graduated from Karabuk University - Computer Engineering department.
-- 🌱 I’m currently learning React and Spring.
+- 🔭 I’m currently working as a **Software Engineer** at **FMSS Bilisim Teknoloji**.  
+I build scalable and maintainable backend systems using **Java 17, Spring Boot, Hibernate**, and **PostgreSQL**, within a **microservices architecture**. I also work on the frontend with **React**, and use **Kafka** for real-time data streaming.
+
+- 🎓 I graduated from Karabuk University - **Computer Engineering** department.
+- 🌱 Currently, I'm diving into **Go** and exploring its performance benefits for backend development.
+
 - 📫 How to reach me: furkanahmetozdemir@hotmail.com
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -37,6 +40,6 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,git,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,docker,git,kafka,aws,go)](https://skillicons.dev)
 
 </div>

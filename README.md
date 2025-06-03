@@ -29,8 +29,8 @@ I build scalable and maintainable backend systems using **Java 17, Spring Boot, 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkan-ahmet-özdemir-09a79a198#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkan-ahmet-özdemir-09a79a198#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/furkan-ahmet-ozdemir#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/furkan-ahmet-ozdemir#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![mailto](./img/mailto-light.png)](mailto:furkanahmetozdemir@hotmail.com#gh-light-mode-only)
 [![mailto](./img/mailto-dark.png)](mailto:furkanahmetozdemir@hotmail.com#gh-dark-mode-only)

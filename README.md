@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 #### I'm a Software Engineer 👩🏻‍💻
 
-- 🔭 I’m currently working as a **Software Engineer** at **FMSS Bilisim Teknoloji**.  
-I build scalable and maintainable backend systems using **Java 17, Spring Boot, Hibernate**, and **PostgreSQL**, within a **microservices architecture**. I also work on the frontend with **React**, and use **Kafka** for real-time data streaming.
+- 🔭 I’m currently working as a **Backend Developer** at **FreshDirect**.  
+I build scalable and maintainable backend systems using **Java, Spring Boot, Hibernate**, and **PostgreSQL**, within a **microservices architecture**. I also work on the frontend with **React**, and use **Kafka** for real-time data streaming.
 
 - 🎓 I graduated from Karabuk University - **Computer Engineering** department.
 - 🌱 Currently, I'm diving into **Go** and exploring its performance benefits for backend development.
